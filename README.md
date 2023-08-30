@@ -1,4 +1,4 @@
-# BHARAT_INTER_TASK_2
+# BHARAT_INTERN_TASK_2
 # Task 2
 ## Problem statement :
 
